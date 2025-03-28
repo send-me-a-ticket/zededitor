@@ -16,7 +16,7 @@ On macOS and Linux you can [download Zed directly](https://zed.dev/download) or 
 
 Other platforms are not yet available:
 
-- Windows ([tracking issue](https://github.com/send-me-a-ticket/zedforwindows/releases/tag/latest))
+- Windows (nightly) ([tracking issue](https://github.com/send-me-a-ticket/zedforwindows/releases/tag/latest))
 - Web ([tracking issue](https://github.com/zed-industries/zed/issues/5396))
 
 ### Developing Zed
